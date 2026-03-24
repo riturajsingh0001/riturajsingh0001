@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently a 2nd year B.Tech Student specializing in Cybersecurity at Quantum University, Roorkee, Uttarakhand. My journey is driven by an obsession with understanding the underlying architecture of digital systems.<br><br>Beyond academics, I drive campus initiatives as a Google Developers Group On Campus Core Member, serving as a Cybersecurity Mentor. Additionally, I am a member of the Corporate Resource Center (CRC), where I coordinate placement drives and university events. Simultaneously, I am building a strong foundation toward becoming a Security Analyst, focusing on SOC fundamentals, network behavior analysis, Linux-based systems, and web & API security through consistent hands-on labs and real-world simulations.
+I am a Cybersecurity-focused Computer Science student, a Cybersecurity Enthusiast, Ethical Hacker, and VAPT learner, aspiring to become a SOC Analyst, with a strong interest in understanding how systems are attacked and how security threats can be detected and analyzed.
+I am actively building hands-on skills through security labs, simulations, and CTF challenges on platforms like TryHackMe and PicoCTF, focusing on practical learning and real-world problem-solving.
+Alongside cybersecurity, I also have experience as a Frontend Developer, working with HTML, CSS, and JavaScript to build responsive user interfaces.
+I am a Member of GDG On Campus, serving as a Facilitator for the Cybersecurity Domain, and an Ex-Member of the Corporate Resource Center (CRC) at Quantum University, where I contributed to technical initiatives, events, and placement-related activities, gaining valuable management and coordination experience.
+Apart from tech, I am a defence aspirant and enjoy horse riding and rifle shooting, which build discipline and focus. I also have a strong interest in gaming, along with enjoying chai ☕ and exploring historic places.
+
+💬 Open to connecting for cybersecurity, ethical hacking, VAPT, SOC learning, or just a good chai conversation.
 
 
 ## 🌐 Socials:
