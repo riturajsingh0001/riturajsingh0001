@@ -1,11 +1,20 @@
-# 💫 About Me:
-I am a Cybersecurity-focused Computer Science student, a Cybersecurity Enthusiast, Ethical Hacker, and VAPT learner, aspiring to become a SOC Analyst, with a strong interest in understanding how systems are attacked and how security threats can be detected and analyzed.
-I am actively building hands-on skills through security labs, simulations, and CTF challenges on platforms like TryHackMe and PicoCTF, focusing on practical learning and real-world problem-solving.
-Alongside cybersecurity, I also have experience as a Frontend Developer, working with HTML, CSS, and JavaScript to build responsive user interfaces.
-I am a Member of GDG On Campus, serving as a Facilitator for the Cybersecurity Domain, and an Ex-Member of the Corporate Resource Center (CRC) at Quantum University, where I contributed to technical initiatives, events, and placement-related activities, gaining valuable management and coordination experience.
-Apart from tech, I am a defence aspirant and enjoy horse riding and rifle shooting, which build discipline and focus. I also have a strong interest in gaming, along with enjoying chai ☕ and exploring historic places.
+##  About Me
 
-💬 Open to connecting for cybersecurity, ethical hacking, VAPT, SOC learning, or just a good chai conversation.
+I’m **Rituraj Singh**, a Computer Science student specializing in **Cybersecurity**, with a strong interest in **Ethical Hacking, Vulnerability Assessment & Penetration Testing (VAPT), Security Operations Center (SOC), and Governance, Risk & Compliance (GRC).**
+
+I enjoy understanding how systems are attacked, identifying security weaknesses, and implementing practical solutions to improve security. My learning focuses on hands-on practice through security labs, CTF challenges, and real-world projects.
+
+Alongside cybersecurity, I have experience in **Frontend Development** using **HTML, CSS, JavaScript, and React**, enabling me to build clean and responsive web interfaces for security-focused applications.
+
+I leverage AI tools to accelerate **security research, automation, web application development, and rapid prototyping of cybersecurity tools.**
+
+- 🔭 Currently building cybersecurity projects
+- 🛡️ Exploring SOC, VAPT, and GRC
+- 📖 Published Cybersecurity Research Paper
+- 🏆 Top 6 – CodeMahotsav'26 CTF
+- 🌱 Continuously learning and improving practical security skills
+
+💬 Feel free to connect if you'd like to discuss cybersecurity, security research, or collaborate on interesting projects.
 
 
 ## 🌐 Socials:
