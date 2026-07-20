@@ -11,7 +11,6 @@ I leverage AI tools to accelerate **security research, automation, web applicati
 - 🔭 Currently building cybersecurity projects
 - 🛡️ Exploring SOC, VAPT, and GRC
 - 📖 Published Cybersecurity Research Paper
-- 🏆 Top 6 – CodeMahotsav'26 CTF
 - 🌱 Continuously learning and improving practical security skills
 
 💬 Feel free to connect if you'd like to discuss cybersecurity, security research, or collaborate on interesting projects.
